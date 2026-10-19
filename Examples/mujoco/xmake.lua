@@ -1,0 +1,2 @@
+-- MuJoCo compiled examples will be declared here.
+-- Target names must use the mujoco_ prefix.

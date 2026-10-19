@@ -1,0 +1,8 @@
+name: position-based-dynamics
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - pip

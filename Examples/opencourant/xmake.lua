@@ -1,0 +1,2 @@
+-- OpenCourant-related compiled examples will be declared here.
+-- Target names must use the opencourant_ prefix.

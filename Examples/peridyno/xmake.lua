@@ -1,0 +1,2 @@
+-- PeriDyno-related compiled examples will be declared here.
+-- Target names must use the peridyno_ prefix.
