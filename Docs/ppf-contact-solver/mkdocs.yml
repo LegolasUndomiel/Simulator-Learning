@@ -1,0 +1,6 @@
+site_name: PPF Contact Solver Learning Notes
+docs_dir: docs
+site_dir: ../../build/docs/ppf-contact-solver
+
+nav:
+  - Home: index.md

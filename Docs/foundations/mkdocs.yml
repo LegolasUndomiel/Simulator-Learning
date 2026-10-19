@@ -1,0 +1,6 @@
+site_name: Simulation Foundations
+docs_dir: docs
+site_dir: ../../build/docs/foundations
+
+nav:
+  - Home: index.md

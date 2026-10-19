@@ -1,0 +1,6 @@
+site_name: OpenCourant Learning Notes
+docs_dir: docs
+site_dir: ../../build/docs/opencourant
+
+nav:
+  - Home: index.md

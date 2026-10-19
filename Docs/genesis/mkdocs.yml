@@ -1,0 +1,6 @@
+site_name: Genesis World Learning Notes
+docs_dir: docs
+site_dir: ../../build/docs/genesis
+
+nav:
+  - Home: index.md

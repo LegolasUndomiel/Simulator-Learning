@@ -1,0 +1,6 @@
+site_name: MuJoCo Learning Notes
+docs_dir: docs
+site_dir: ../../build/docs/mujoco
+
+nav:
+  - Home: index.md

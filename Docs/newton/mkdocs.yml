@@ -1,0 +1,6 @@
+site_name: Newton Learning Notes
+docs_dir: docs
+site_dir: ../../build/docs/newton
+
+nav:
+  - Home: index.md

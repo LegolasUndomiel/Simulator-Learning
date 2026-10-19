@@ -1,0 +1,6 @@
+site_name: PositionBasedDynamics Learning Notes
+docs_dir: docs
+site_dir: ../../build/docs/position-based-dynamics
+
+nav:
+  - Home: index.md

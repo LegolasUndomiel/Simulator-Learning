@@ -1,0 +1,6 @@
+site_name: PeriDyno Learning Notes
+docs_dir: docs
+site_dir: ../../build/docs/peridyno
+
+nav:
+  - Home: index.md
