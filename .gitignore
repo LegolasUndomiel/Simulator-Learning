@@ -1,0 +1,64 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Centralized build output (the canonical location for generated artifacts)
+/build/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Xmake caches
+.xmake/
+
+# CMake and Ninja files accidentally generated outside the central build tree
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Native compiler and linker outputs
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.mod
+*.smod
+
+# MkDocs output accidentally generated with the default site_dir
+site/
+
+# Experiment-generated data (small summaries remain trackable)
+Experiments/**/outputs/
+Experiments/**/results/raw/
+Experiments/**/cache/
+Experiments/**/tmp/
+
+# Local IDE state only
+.vs/
+.idea/workspace.xml
+.idea/shelf/
+*.user
+*.suo

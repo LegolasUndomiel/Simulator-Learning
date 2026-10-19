@@ -1,0 +1,21 @@
+[submodule "Simulators/mujoco"]
+	path = Simulators/mujoco
+	url = https://github.com/google-deepmind/mujoco.git
+[submodule "Simulators/newton"]
+	path = Simulators/newton
+	url = https://github.com/newton-physics/newton.git
+[submodule "Simulators/genesis"]
+	path = Simulators/genesis
+	url = https://github.com/Genesis-Embodied-AI/genesis-world.git
+[submodule "Simulators/opencourant"]
+	path = Simulators/opencourant
+	url = https://github.com/OpenCourant/OpenCourant.git
+[submodule "Simulators/peridyno"]
+	path = Simulators/peridyno
+	url = https://github.com/peridyno/peridyno.git
+[submodule "Simulators/ppf-contact-solver"]
+	path = Simulators/ppf-contact-solver
+	url = https://github.com/st-tech/ppf-contact-solver.git
+[submodule "Simulators/position-based-dynamics"]
+	path = Simulators/position-based-dynamics
+	url = https://github.com/InteractiveComputerGraphics/PositionBasedDynamics.git
