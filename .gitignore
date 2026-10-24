@@ -6,6 +6,10 @@ Desktop.ini
 # Centralized build output (the canonical location for generated artifacts)
 /build/
 
+# Source-level third-party clones restored automatically by the Xmake build
+# (pinned upstream commits; not generated output, hence outside build/)
+/deps/
+
 # Python caches and local environments
 __pycache__/
 *.py[cod]
@@ -62,3 +66,5 @@ Experiments/**/tmp/
 .idea/shelf/
 *.user
 *.suo
+
+.vscode/

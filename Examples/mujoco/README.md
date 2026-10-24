@@ -18,7 +18,7 @@ Python work uses the `mujoco` Conda environment defined in `environment.yml`. Th
 
 ## Build / Run
 
-Compiled examples will be registered in this directory's `xmake.lua` and invoked through `Examples/xmake.lua`. No targets exist yet. Generated files belong in `build/examples/`.
+Personal compiled examples will be registered in this directory's `xmake.lua` and invoked through `Examples/xmake.lua`. No personal example targets exist yet. Generated files belong in `build/examples/`. Separately, the root Xmake project already builds the upstream MuJoCo core, plugins and samples, with tests enabled via `--with_mujoco_tests=y`. See [the build guide](../../xmake/README.md) for commands and output paths.
 
 ## Related Documentation
 
